@@ -350,11 +350,10 @@ h5 {
         display: none;
     }
     .contact ul {
-        max-width: 340px;
-        margin: 40px 17.5px 60px;
+        width: 100%;
+        margin: 40px 0 60px 17.5px;
     }
     .contact ul li {
-        width: 340px;
         line-height: 1.5;
     }
 }
