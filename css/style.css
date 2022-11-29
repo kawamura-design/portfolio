@@ -322,6 +322,7 @@ h5 {
     width: 450px;
     margin: 40px auto 60px;
     list-style: square;
+    overflow-wrap: normal;
 }
 
 .contact ul li {
@@ -422,7 +423,7 @@ form a {
     label,
     input,
     textarea {
-        width: 340px;
+        width: 100%;
     }
 }
 
