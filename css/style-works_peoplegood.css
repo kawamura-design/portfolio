@@ -109,7 +109,7 @@ h4 {
 
 @media screen and (max-width: 767px) {
     .works_img {
-        width: 340px;
+        max-width: 100%;
     }
     .workstitle {
         width: 210px;
